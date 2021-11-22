@@ -1,0 +1,75 @@
+.btn-primary {
+  margin-top: 40px; }
+
+.vffv {
+  margin-left: 60%; }
+
+.play {
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  position: absolute;
+  left: 81%;
+  top: 590px;
+  background-color: #1cc11c; }
+
+.playyy {
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  position: absolute;
+  left: 81%;
+  top: 590px;
+  background-color: #1cc11c;
+  animation-name: play;
+  animation-duration: 1s;
+  animation-iteration-count: infinite; }
+
+.playyyy {
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  position: absolute;
+  left: 81%;
+  top: 590px;
+  background-color: #1cc11c;
+  animation-name: playy;
+  animation-duration: 1s;
+  animation-iteration-count: infinite; }
+
+.vre {
+  margin-top: 90px; }
+
+.pla {
+  margin-left: 105px;
+  margin-top: 80px; }
+
+.bsbg {
+  margin-left: 60px; }
+
+@keyframes play {
+  0% {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    background-color: #1cc11c; }
+  50% {
+    opacity: 1; }
+  100% {
+    box-shadow: 0px 0px 0px 10px #1cc11c;
+    opacity: 0; } }
+@keyframes playy {
+  0% {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    background-color: #1cc11c; }
+  50% {
+    opacity: 1; }
+  100% {
+    box-shadow: 0px 0px 0px 30px #1cc11c;
+    opacity: 0; } }
+.gf {
+  margin-top: 260px; }
+
+/*# sourceMappingURL=style.css.map */
